@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.tittle("My tittle")
+st.title("My title")
 if st.button("Greet"):
     st.info("Hello, it's me!")
